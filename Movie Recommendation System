@@ -1,8 +1,12 @@
 Task: Movie Recommendation System
 
-For this task, I developed a basic recommendation system using Python and Pandas. I explored two popular approaches: Collaborative Filtering and Content-based Filtering. Collaborative Filtering leverages user behavior to predict preferences and recommend items, while Content-based Filtering relies on item characteristics and user preferences. Through this project, I gained hands-on experience in implementing recommendation algorithms and analyzing movie datasets.
+For this task, I developed a basic recommendation system using Python and Pandas. 
+I explored two popular approaches: Collaborative Filtering and Content-based Filtering. 
+Collaborative Filtering leverages user behavior to predict preferences and recommend items, while Content-based Filtering relies on item characteristics and user preferences. 
+Through this project, I gained hands-on experience in implementing recommendation algorithms and analyzing movie datasets.
 
-Check out my implementation on Google Colab: [Google Colab Link Here]
+Check out my implementation on Google Colab: 
+https://colab.research.google.com/drive/1b_Bs8EsUBvSGaWXZVXerRTWlFZbL4TUR#scrollTo=d_Sq1nSDJSfR
 
 This project demonstrates my ability to apply machine learning techniques in real-world scenarios and my commitment to continuous learning and growth in the field of data science.
 
